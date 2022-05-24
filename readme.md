@@ -1,0 +1,1 @@
+# This a discord.js boilerplate code used by create-discord-app
